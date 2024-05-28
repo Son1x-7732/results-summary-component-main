@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,12 +8,13 @@
   <link rel="stylesheet" href="style.css">
   <title>Results Summary</title>
 </head>
+
 <body>
   <main>
 
     <div class="result-summary">
 
-      <div class="results grid-flow">
+      <div class="results grid-flow" data-spacing="large">
 
         <h1 class="section-title">
           Your Result
@@ -29,17 +31,51 @@
 
       </div>
 
-      <div class="summary">
-
+      <div class="summary grid-flow" data-spacing="large">
         <h2 class="section-title">Summary</h2>
 
         <div class="grid-flow">
-          
+
+          <div class="summary-item" data-item-type="accent-1">
+            <div class="flex-group">
+              <img src="assets/images/icon-reaction.svg" alt="">
+              <h3 class="summary-item-title">Reaction</h3>
+            </div>
+            <p class="summary-score"><span>80</span> / 100</p>
+          </div>          
+
+          <div class="summary-item" data-item-type="accent-2">
+            <div class="flex-group">
+              <img src="assets/images/icon-memory.svg" alt="">
+              <h3 class="summary-item-title">Memory</h3>
+            </div>
+            <p class="summary-score"><span>92</span> / 100</p>
+          </div>
+
+          <div class="summary-item" data-item-type="accent-3">
+            <div class="flex-group">
+              <img src="assets/images/icon-verbal.svg" alt="">
+              <h3 class="summary-item-title">Verbal</h3>
+            </div>
+            <p class="summary-score"><span>61</span> / 100</p>
+          </div>
+
+          <div class="summary-item" data-item-type="accent-4">
+            <div class="flex-group">
+              <img src="assets/images/icon-visual.svg" alt="">
+              <h3 class="summary-item-title">Visual</h3>
+            </div>
+            <p class="summary-score"><span>72</span> / 100</p>
+          </div>
+
         </div>
+
+        <button class="button">Continue</button>
 
       </div>
 
     </div>
-  </main>  
+  </main>
 </body>
+
 </html>
