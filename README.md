@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/Son1x-7732/results-summary-component-main.git)
 - Live Site URL: [Live site URL](https://result-card7732.netlify.app/)
 
 ## My process
