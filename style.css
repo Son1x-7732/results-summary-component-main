@@ -215,3 +215,10 @@ body {
 .summary-score span {
     color: var(--clr-neutral-700);
 }
+
+.atrribution {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
