@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Live site URL](https://result-card7732.netlify.app/)
 
 ## My process
 
@@ -53,9 +53,6 @@ Users should be able to:
 ### Useful resources
 
 - [My only resource](https://www.youtube.com/watch?v=KqFAs5d3Yl8) - This is a comprehensive video guide by Kevin Powell. I learned how to properly approach a project firsthand and will continue using it in future challenges and projects. I recommend to watch his videos for great insight in CSS.
-
-
-
 
 ## Author
 
